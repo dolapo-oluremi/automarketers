@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dolapo-oluremi/automarketers.git/static/css/main.669c4661.css",
+    "main.js": "/dolapo-oluremi/automarketers.git/static/js/main.488739fb.js",
+    "static/media/cars3.jpg": "/dolapo-oluremi/automarketers.git/static/media/cars3.d8cf3ad7f1aa385b217d.jpg",
+    "static/media/cars4.jpg": "/dolapo-oluremi/automarketers.git/static/media/cars4.1c26c827c0ad377a5863.jpg",
+    "static/media/cars2.jpg": "/dolapo-oluremi/automarketers.git/static/media/cars2.e07f2a254ca449d61c81.jpg",
+    "static/media/cars1.jpg": "/dolapo-oluremi/automarketers.git/static/media/cars1.dbaee96c19d726b0fae0.jpg",
+    "static/media/cars6.jpg": "/dolapo-oluremi/automarketers.git/static/media/cars6.7c4d87a578d47e567ce8.jpg",
+    "static/media/cars5.jpg": "/dolapo-oluremi/automarketers.git/static/media/cars5.9756dd5204c8e2cee174.jpg",
+    "index.html": "/dolapo-oluremi/automarketers.git/index.html",
+    "main.669c4661.css.map": "/dolapo-oluremi/automarketers.git/static/css/main.669c4661.css.map",
+    "main.488739fb.js.map": "/dolapo-oluremi/automarketers.git/static/js/main.488739fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.669c4661.css",
+    "static/js/main.488739fb.js"
+  ]
+}
